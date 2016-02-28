@@ -1,0 +1,3 @@
+clusters = pcinfo@127.0.0.1  aula
+pcinfo@127.0.0.1 = info@127.0.0.1
+aula = pcinfo@127.0.0.1  
